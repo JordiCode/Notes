@@ -1,0 +1,8 @@
+.NoteBook {
+    height: 77%;
+    background-color: rgb(253, 240, 183);
+    margin: 0;
+    padding: 1.5% 20px 1.5% 20px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}

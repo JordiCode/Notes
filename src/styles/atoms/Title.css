@@ -1,0 +1,8 @@
+.title {
+    color: hsl(50, 63%, 28%);
+    margin: 0;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
